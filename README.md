@@ -29,7 +29,7 @@ This repository contains a Flask-based web application that provides personalize
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone [https://github.com/yourusername/your-repository.git](https://github.com/guneeshvats/Personalised-Product-Recommendation-System.git)
    cd your-repository
 
 2. Install Dependencies
