@@ -25,11 +25,6 @@ for index, row in b_df.iterrows():
     }
 app = Flask(__name__)
 
-# Load the saved model
-# model = load_model('model.h5')
-# model2= load_model('model2.h5')
-
-
 @app.route('/')
 def index():
     return render_template('index.html')
